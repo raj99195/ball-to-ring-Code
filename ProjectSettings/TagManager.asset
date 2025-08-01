@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - main_ring
+  - gm_maneger
+  - ball
+  - Ring
+  - ball_to_ring
+  - ball_to_ring_false
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: bg
+    uniqueID: 1554521125
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ball
+    uniqueID: 542767673
+    locked: 0
+  - name: meno
+    uniqueID: 1107255923
+    locked: 0
